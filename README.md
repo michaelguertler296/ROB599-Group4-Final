@@ -32,7 +32,7 @@ This project consists of five parts.
    To view optimization techniques used on Mip-NeRF: 
   
 
-5. Final project video: https://youtu.be/4JkRE3tyc48
+5. Final project video: https://youtu.be/0wM_abK1gZc
 
 6. Final project report: 
 
