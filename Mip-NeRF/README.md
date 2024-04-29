@@ -2,7 +2,7 @@
 
 A reimplementation of Mip-NeRF in PyTorch. This implementation was developed by Benjamin Beal. Most of the files in this directory were created by that project's authors and are here as a result of cloning that directory. The files we modified in this directory are:
 
-gesture_control.py
+gesture_control.py\
 track_hand.py 
 
 ## References/Contributions
