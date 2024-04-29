@@ -25,11 +25,14 @@ This project consists of five parts.
       - Follow instructions on the notebook to run (as long as you have a trained model already, you can skip the "Mip-NeRF Implementation" section
   
    To run Pre-rendered Gesture Control:
+      - Ensure the directory of Output_Images is saved locally (roughly 183 Mb)
+      - Set Output_Images file path in track_hand_preload.py
+      - Run track_hand_preload.py (you'll need a webcam)
 
    To view optimization techniques used on Mip-NeRF: 
   
 
-5. Final project video: https://youtu.be/4JkRE3tyc48
+5. Final project video: https://youtu.be/0wM_abK1gZc
 
 6. Final project report: 
 
