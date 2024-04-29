@@ -76,7 +76,7 @@ while cap.isOpened():
         theta, phi, radius = find_nearest(filt_theta, filt_phi, filt_radius)
 
         filename = "t{:.1f}_p{:.1f}_r{:.1f}.png".format(theta, phi, radius)
-        img = iio.imread("/Users/tylersmithline/Documents/UMich_Git_Local/ROB599-Group4-Final/Output_Images/" + filename) # set local image directory here
+        img = iio.imread("Output_Images/" + filename) # set local image directory here
 
         # Convert the image to BGR color space (if it's not already in BGR)
         if img.ndim == 2:
