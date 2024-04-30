@@ -3,7 +3,7 @@ Final Project: NeRF Gesture Control
 
 Michael Guertler, Sagar Patil, Adithya Ramakrishnan, Tyler Smithline
 
-[![Watch our final project video](https://img.youtube.com/vi/0wM_abK1gZc/0.jpg)]([https://www.youtube.com/watch?v=<video_id>](https://youtu.be/0wM_abK1gZc))
+[![Watch our final project video](https://img.youtube.com/vi/0wM_abK1gZc/0.jpg)](https://www.youtube.com/watch?v=0wM_abK1gZc)
 
 This project consists of five parts. 
 1. In class presentation: https://docs.google.com/presentation/d/1maS8itjtwLz1LGLoe_IzaGOvr054AqAjauwhz4m-Z-4/edit?usp=sharing
