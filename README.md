@@ -32,7 +32,7 @@ This project consists of five parts.
       - Set Output_Images file path in track_hand_preload.py
       - Run track_hand_preload.py (you'll need a webcam)
 
-   To view optimization techniques used on Mip-NeRF: 
+   To run the optimized techniques used on Mip-NeRF: train_fp16.py
   
 
 5. Final project video: https://youtu.be/0wM_abK1gZc
