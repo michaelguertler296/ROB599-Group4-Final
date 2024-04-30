@@ -36,5 +36,5 @@ This project consists of five parts.
 
 5. Final project video: https://youtu.be/0wM_abK1gZc
 
-6. Final project report: 
+6. Final project report: https://drive.google.com/file/d/1lUgU2DZJ8YT0YFOpkJzseUgpDOI7cxRE/view?usp=sharing
 
