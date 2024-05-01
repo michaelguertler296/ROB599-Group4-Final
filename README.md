@@ -33,7 +33,8 @@ This project consists of five parts.
       - Run track_hand_preload.py (you'll need a webcam)
 
    To run the optimized techniques used on Mip-NeRF: train_fp16.py
-  
+
+   Link to the model weights: https://drive.google.com/drive/folders/1-pUpanjwFtBywLH-jmMWVYZDbx5cbEm5?usp=sharing
 
 5. Final project video: https://youtu.be/0wM_abK1gZc
 
