@@ -1,7 +1,7 @@
 # ROB599-Group4-Final 
 Final Project: NeRF Gesture Control
 
-Michael Guertler, Sagar Patil, Adithya Ramakrishnan, Tyler Smithline
+Contributors: Michael Guertler, Sagar Patil, Adithya Ramakrishnan, Tyler Smithline
 
 Watch our final project video:\
 [![Watch our final project video](https://img.youtube.com/vi/0wM_abK1gZc/0.jpg)](https://www.youtube.com/watch?v=0wM_abK1gZc)
